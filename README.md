@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sean-Pablo
-- 👀 I’m interested in python and java languages
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on either of the two mentioned
-- 📫 you can reach me through my email address
+- 👀 specialized in python and NestJS programming
+- 🌱 vibe coding and all 
 
 <!---
 Sean-Pablo/Sean-Pablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
